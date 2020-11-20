@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\Saray\source\repos\CurlTest\CurlTest\Main.cpp(34,22): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+  CurlTest.vcxproj -> C:\Users\Saray\source\repos\CurlTest\x64\Debug\CurlTest.exe
